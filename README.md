@@ -13,19 +13,18 @@
 - Iniciando o setoolkit: ``` setoolkit ```
 - ![Alt text](./setoolkit.jpg "Optional title")
 - Tipo de ataque: ``` Social-Engineering Attacks ```
-- ![Alt text](./opcao1.png "Optional title")
+- ![Alt text](./opcao1.jpg "Optional title")
 - Vetor de ataque: ``` Web Site Attack Vectors ```
-- ![Alt text](./opcao2.png "Optional title")
+- ![Alt text](./opcao2.jpg "Optional title")
 - Método de ataque: ```Credential Harvester Attack Method ```
-- ![Alt text](./opcao3.png "Optional title")
-- ![Alt text](./opcao4.png "Optional title")
+- ![Alt text](./opcao3.jpg "Optional title")
+- ![Alt text](./opcao4.jpg "Optional title")
 - Método de ataque: ``` Site Cloner ```
 - ![Alt text](./urlclone.jpg "Optional title")
-- ![Alt text](./url_falsa.jpg "Optional title")
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - ![Alt text](./IP.jpg "Optional title")
 - URL para clone: https://www.instagram.com
-- ![Alt text](./passwd.png "Optional title")
+- ![Alt text](./url_falsa.jpg "Optional title")
 
 ### Resutados
 
